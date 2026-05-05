@@ -8,7 +8,7 @@ Going on a trip together?
 
 Statera helps you organize your expenses and does the math for you. Scan receipts, mark your items, finalize expenses and equalize your group's debts.
 
-<img 
+<img  
     src="https://user-images.githubusercontent.com/25109066/231919733-32627768-36be-4f28-b32b-f79850817cd0.png" 
     alt="home screen" 
     width="200"
